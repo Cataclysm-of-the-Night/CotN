@@ -1,0 +1,14 @@
+{
+  "triumph:advancements/dimensions/nether": {
+    "criteria": {
+      "Craft Nether Rune": "2021-02-25 14:18:58 -0800"
+    },
+    "done": true
+  },
+  "triumph:advancements/dimensions/aether": {
+    "criteria": {
+      "Craft Aether Rune": "2021-02-25 15:11:20 -0800"
+    },
+    "done": true
+  }
+}

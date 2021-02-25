@@ -1,7 +1,13 @@
+#loader contenttweaker
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 import mods.ArcaneWorld;
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Item;
+import mods.contenttweaker.BlockMaterial;
+import mods.contenttweaker.Block;
+import mods.contenttweaker.AxisAlignedBB;
 
 ArcaneWorld.removeAll();
 recipes.remove(<arcaneworld:levitator>);
@@ -15,3 +21,6 @@ ArcaneWorld.createRitualCreateItem("warding_rune", "Warding Rune Synthesis", <co
 
 // Adds barrier spell
 recipes.addShapedMirrored(<contenttweaker:barrier_spell>, [[null, <contenttweaker:plague_rune>, null],[<contenttweaker:arcane_rune>, <iceandfire:manuscript>, <contenttweaker:warding_rune>], [null, <contenttweaker:creation_rune>, null]]);
+
+// Adds Portal Blocks
+var inactive_nethergate = VanillaFactory.createBlock("inactive_nethergate", <blockmaterial:Metal>);
