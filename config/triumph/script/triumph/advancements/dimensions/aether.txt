@@ -1,0 +1,19 @@
+setIcon(<contenttweaker:aether_rune>)
+setTitle("If Heaven and Hell Decide")
+setDescription("Perform an arcanic synthesis ritual to empower an Aether portal.")
+
+addParent("triumph:advancements/dimensions/nether")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+addRewardFunction("triumph:aether")
+
+criteria = addCriteria("Craft Aether Rune", "minecraft:inventory_changed")
+criteria.addItem(<contenttweaker:aether_rune>)
+
+alwaysVisible()
+setPos(-620,-81)

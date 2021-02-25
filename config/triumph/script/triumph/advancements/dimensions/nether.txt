@@ -1,0 +1,20 @@
+setIcon(<contenttweaker:nether_rune>)
+setTitle("Hell Hath No Greater Fury")
+setDescription("Perform an arcanic synthesis ritual to empower a Nether gateway.")
+
+addParent("triumph:advancements/dimensions/root")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(true)
+
+addRewardFunction("triumph:nether")
+
+criteria = addCriteria("Craft Nether Rune", "minecraft:inventory_changed")
+criteria.addItem(<contenttweaker:nether_rune>)
+
+hideLines()
+alwaysVisible()
+setPos(-824,-81)

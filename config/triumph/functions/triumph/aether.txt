@@ -1,0 +1,8 @@
+gamerule commandBlockOutput false
+gamerule sendCommandFeedback false
+gamestage silentadd @p aetherunlock
+title @p times 40 120 60
+title @p subtitle {"text":"Has Been Loosed.", "color":"red"}
+title @p title {"text":"The Judgement of Heaven", "bold":false, "italic":false, "color":"red"}
+tellraw @p ["",{"text":"You may now freely enter the Aether.","color":"yellow","italic":true}]
+playsound minecraft:entity.wither.death master @p ~ ~ ~ 50

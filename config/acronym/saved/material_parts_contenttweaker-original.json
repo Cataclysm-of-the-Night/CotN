@@ -1,0 +1,22 @@
+{
+  "materialMappings": {
+    "tin_molten": 6,
+    "iron_dust": 0,
+    "ambrosium_molten": 16,
+    "silver_dust": 9,
+    "gold_dust": 1,
+    "tin_dust": 7,
+    "zinc_nugget": 13,
+    "ambrosium_dust": 17,
+    "copper_nugget": 2,
+    "zinc_dust": 15,
+    "zinc_ore": 10,
+    "zinc_molten": 14,
+    "tin_nugget": 5,
+    "zinc_block": 12,
+    "copper_dust": 4,
+    "crucible_steel_dust": 8,
+    "zinc_ingot": 11,
+    "copper_molten": 3
+  }
+}
