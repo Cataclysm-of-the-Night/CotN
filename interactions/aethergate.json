@@ -1,0 +1,7 @@
+[
+  {
+    "targetBlock": "endreborn:block_purpur_lamp",
+    "heldItem": "contenttweaker:aether_rune",
+    "replacementBlock": "contenttweaker:active_aethergate"
+  }
+]

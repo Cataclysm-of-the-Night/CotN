@@ -25,7 +25,12 @@
 			{
 				"registryName": "minecraft:glowstone",
 				"meta": 32767,
-				"minimumAmount": 10
+				"minimumAmount": 9
+			},
+			{
+				"registryName": "contenttweaker:active_aethergate",
+				"meta": 32767,
+				"minimumAmount": 1
 			}
 		],
 		"requiredCorner": "ANY",
@@ -36,13 +41,13 @@
 		"canBeActivatedByFire": false,
 		"activators": [
 			{
-				"registryName": "minecraft:water_bucket",
+				"registryName": "contenttweaker:aether_rune",
 				"meta": 32767
 			}
 		],
 		"activatorConsumeBehavior": "DO_NOTHING",
 		"spawnFireBeforeActivating": false,
-		"activationSounds": []
+		"activationSounds": ["minecraft:entity.lightning.thunder"]
 	},
 	"color": {
 		"colors": [

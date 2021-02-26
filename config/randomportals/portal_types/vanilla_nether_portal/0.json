@@ -25,7 +25,12 @@
 			{
 				"registryName": "minecraft:obsidian",
 				"meta": 32767,
-				"minimumAmount": 10
+				"minimumAmount": 9
+			},
+			{
+				"registryName": "contenttweaker:active_nethergate",
+				"meta": 32767,
+				"minimumAmount": 1
 			}
 		],
 		"requiredCorner": "ANY",
@@ -33,11 +38,16 @@
 		"doGeneratedFramesDrop": true
 	},
 	"activation": {
-		"canBeActivatedByFire": true,
-		"activators": [],
-		"activatorConsumeBehavior": "CONSUME",
-		"spawnFireBeforeActivating": true,
-		"activationSounds": []
+		"canBeActivatedByFire": false,
+		"activators": [
+			{
+				"registryName": "contenttweaker:nether_rune",
+				"meta": 32767
+			}
+		],
+		"activatorConsumeBehavior": "DO_NOTHING",
+		"spawnFireBeforeActivating": false,
+		"activationSounds": ["minecraft:entity.wither.death"]
 	},
 	"color": {
 		"colors": [
