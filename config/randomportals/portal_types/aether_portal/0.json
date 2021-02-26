@@ -25,7 +25,7 @@
 			{
 				"registryName": "minecraft:glowstone",
 				"meta": 32767,
-				"minimumAmount": 0
+				"minimumAmount": 10
 			}
 		],
 		"requiredCorner": "ANY",
