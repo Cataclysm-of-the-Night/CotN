@@ -4217,3 +4217,41 @@ net.minecraft.item.ItemStack: [[], [], [], []]
 [19:38:59] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
 [19:38:59] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
 [19:38:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[19:42:15] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:42:48] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[19:42:48] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:42:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[19:42:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[19:42:52] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:42:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[19:43:10] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[19:43:10] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:43:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[19:43:28] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:44:13] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:44:22] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@2ba681da)
+[19:44:24] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:44:58] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:45:36] [Client thread/INFO] [net.minecraft.client.multiplayer.ChunkProviderClient]: Warning: Clientside chunk ticking took 122 ms
+[19:45:41] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@2ba681da)
+[19:45:42] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:45:43] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:46:08] [Server thread/INFO] [FML]: Loading dimension 4 (New World) (net.minecraft.server.integrated.IntegratedServer@2ba681da)
+[19:46:12] [Server thread/INFO] [FML]: Unloading dimension 4
+[19:46:23] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[19:46:23] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:46:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[19:46:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:46:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:46:43] [Server thread/INFO] [gamestages]: Saved 2 stages for TheNelston.
+[19:46:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TheNelston lost connection: Disconnected
+[19:46:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TheNelston left the game
+[19:46:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[19:46:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:46:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[19:46:43] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:46:46] [Server thread/INFO] [FML]: Applying holder lookups
+[19:46:46] [Server thread/INFO] [FML]: Holder lookups applied
+[19:47:16] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[19:47:16] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[19:47:16] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

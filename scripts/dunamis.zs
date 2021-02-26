@@ -92,6 +92,12 @@ solRune.maxDamage = 4;
 solRune.maxStackSize = 1;
 solRune.register();
 
+val endRune = VanillaFactory.createItem("end_rune");
+endRune.setCreativeTab(<creativetab:Dunamis>);
+endRune.maxDamage = 4;
+endRune.maxStackSize = 1;
+endRune.register();
+
 val lunaRune = VanillaFactory.createItem("luna_rune");
 lunaRune.setCreativeTab(<creativetab:Dunamis>);
 lunaRune.maxDamage = 4;
