@@ -14,5 +14,12 @@
 15 126 -126 31 139 -114 Barn-intact.tml
 52 128 -199 56 130 -195 EmeraldOreOutcrop.tml
 72 126 -27 82 131 -17 RuinedSmallFountainDiagonal.tml
+231 126 -721 240 134 -706 Archway.tml
+244 126 -617 251 129 -612 Melonfield.tml
+288 126 -516 295 135 -509 Outcrop.tml
 322 127 -639 324 131 -636 SkeletonHeadStatue.tml
 371 126 -557 375 132 -554 StonePillar.tml
+411 126 -703 416 132 -698 CaveSpiderBurrow.tml
+456 126 -485 466 135 -473 StoneHouseMruined.tml
+467 126 -575 479 131 -563 AncientFountain.tml
+490 126 -699 499 141 -690 MoaiHead.tml
