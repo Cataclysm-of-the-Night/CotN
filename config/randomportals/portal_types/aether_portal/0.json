@@ -47,7 +47,9 @@
 		],
 		"activatorConsumeBehavior": "DO_NOTHING",
 		"spawnFireBeforeActivating": false,
-		"activationSounds": ["minecraft:entity.lightning.thunder"]
+		"activationSounds": [
+			"minecraft:entity.lightning.thunder"
+		]
 	},
 	"color": {
 		"colors": [

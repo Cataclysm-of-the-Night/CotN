@@ -47,7 +47,9 @@
 		],
 		"activatorConsumeBehavior": "DO_NOTHING",
 		"spawnFireBeforeActivating": false,
-		"activationSounds": ["minecraft:entity.wither.death"]
+		"activationSounds": [
+			"minecraft:entity.wither.death"
+		]
 	},
 	"color": {
 		"colors": [

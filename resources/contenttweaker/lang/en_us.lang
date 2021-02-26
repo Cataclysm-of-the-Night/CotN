@@ -1,8 +1,8 @@
 item.contenttweaker.iron_crushed.name=Crushed Iron
 item.contenttweaker.gold_crushed.name=Crushed Gold
 item.contenttweaker.barrier_spell.name=Barrier Spell
-item.contenttweaker.active_aethergate.name=Active Aether Gate
-item.contenttweaker.active_nethergate.name=Active Nether Gate
+block.contenttweaker.active_aethergate.name=Active Aether Gate
+block.contenttweaker.active_nethergate.name=Active Nether Gate
 
 itemGroup.Dunamis=Dunamis
 item.contenttweaker.arcane_focus.name=Arcane Focus
